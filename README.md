@@ -8,10 +8,10 @@
 - ２ボタン（A/B切替ボタン と Thru/FX切替ボタン）コントロール
 - A/B切り替えボタンで SendA-ReturnA / SendB-ReturnB を切り替え
 - Thru/FX ボタン長押しで Tunerモード（本線系はミュートしてチューナにのみ信号を流す）．Thru/FXボタンかA/Bボタンで復帰．
-
+- なお切り替え制御はワンチップマイコン使用
 
 ## 回路図
 
-- [version 1.0](Line_Selector_v1p0.pdf) 一部間違いあり
+- [version 1.0](Line_Selector_v1p0.pdf) 一部間違いあり，基板パターンを改修した上で動作実績あり
 - [version 1.1](Line_Selector_v1p1.pdf) v.1.1を修正したもの．ただし基板は未検証
 
