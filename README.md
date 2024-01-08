@@ -13,5 +13,8 @@
 ## 回路図
 
 - [version 1.0](Line_Selector_v1p0.pdf) 一部間違いあり，基板パターンを改修した上で動作実績あり
-- [version 1.1](Line_Selector_v1p1.pdf) v.1.1を修正したもの．ただし基板は未検証
+- [version 1.1](Line_Selector_v1p1.pdf) v.1.1を修正したもの．ただし基板は製作しておらず未検証
 
+## 基板修正図
+
+- [Patch 1.0 to 1.1](Patch_v1p0_to_v1p1.pdf) verion 1.0 の基板に対するパッチ情報（基板カットとジャンパ線）
